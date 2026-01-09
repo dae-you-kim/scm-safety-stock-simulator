@@ -17,4 +17,4 @@
 
 ### 4. 개발자
 * **Name:** 김대유 (Kim Dae-yu)
-* **Contact:** (이메일 주소나 블로그가 있다면 적으세요, 없으면 삭제)
+* **Contact:** (kdyu0115@gmail.com)
